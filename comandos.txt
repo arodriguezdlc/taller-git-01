@@ -6,3 +6,8 @@ git pull (recibir)(si se hace antes del pull el cambio se produce a lo recien ac
 
 git log (mirar el registro de cambios)( se sale escribiendo q)
 git status (indica el estado actuadl del sistema)
+
+git checkout -b nombrerama (crear una rama)( si le quitas -b eliges la rama ya creada a la que moverte)
+git push origin nombrerama (actualizar la rama con tus datos)
+
+correo: arodriguezdlc@gmail.com
