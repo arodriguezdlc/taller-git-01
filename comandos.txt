@@ -1,0 +1,5 @@
+git clone
+git add nombrearchivo
+git commit
+git push
+git push (recibir)
