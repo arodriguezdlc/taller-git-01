@@ -3,3 +3,6 @@ git add nombrearchivo
 git commit -m "razon de cambio"
 git push
 git pull (recibir)(si se hace antes del pull el cambio se produce a lo recien actualizado)
+
+git log (mirar el registro de cambios)( se sale escribiendo q)
+git status (indica el estado actuadl del sistema)
