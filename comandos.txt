@@ -1,0 +1,5 @@
+git clone
+git add nombrearchivo
+git commit -m "razon de cambio"
+git push
+git push (recibir)
